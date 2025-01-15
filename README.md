@@ -42,9 +42,6 @@ This is a JavaFX implementation of the classic **Hangman** game. In this game, t
 4. The game ends when the player successfully guesses all letters of the word or the hangman figure is fully drawn.
 5. The player can start a new round by clicking the "New Game" button.
 
-## Screenshots
-
-![Hangman Game Screenshot](screenshot.png)
 
 ## License
 
